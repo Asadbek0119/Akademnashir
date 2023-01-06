@@ -126,7 +126,7 @@
     }
     .footer {
         height: unset;
-        height: 1000px !important;
+        height: 7   00px !important;
     }
     .footer__line2 {
         width: 100%;
@@ -134,7 +134,7 @@
         background: var(--oreng);
     }
     .footer__item {
-        width: 500%;
+        width: 50%;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
